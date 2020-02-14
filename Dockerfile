@@ -4,4 +4,5 @@ RUN apk --no-cache add --update \
         py-crcmod \
         bash \
         git \
-        python
+        python \
+        py-pip
