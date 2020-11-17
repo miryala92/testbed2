@@ -5,4 +5,5 @@ RUN apk --no-cache add --update \
         bash \
         git \
         python \
-        py-pip
+        py-pip \
+        curl
